@@ -47,8 +47,12 @@ main {
   transition: all 0.75s;
 }
 
-.player--winner {
+/* .player--winner {
   background-color: linear-gradient(to top left, #28b487, #7dd56f);
+} */
+
+.player--winner {
+  background-color: #7dd56f;
 }
 
 .player--winner .name {
